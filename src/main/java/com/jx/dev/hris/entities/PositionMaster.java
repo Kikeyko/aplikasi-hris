@@ -1,4 +1,4 @@
-package com.jx.dev.hris.entity;
+package com.jx.dev.hris.entities;
 
 import java.util.ArrayList;
 import java.util.List;
